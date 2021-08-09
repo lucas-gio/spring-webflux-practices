@@ -1,5 +1,5 @@
 language: java
-jdk: openjdk13
+#jdk: openjdk13
 os: freebsd
 script: "mvn cobertura:cobertura"
 after_success:
