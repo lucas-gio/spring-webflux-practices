@@ -16,9 +16,6 @@
     <artifactId>webflux-intro-1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <properties>
-        <java.version>11</java.version>
-    </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
