@@ -2,7 +2,7 @@
 
 ![](cover.jpeg)
 
-# Test para practicar spring webflux.
+# Tests to practice spring webflux
 
 ## 🦿 Prerequisites
 
@@ -19,7 +19,7 @@
 
 |![](https://i.giphy.com/media/7Sk1DclBgQoVyGCSPx/giphy.gif) |
 |:--:|
-#### Finalizado
+#### Finalized
 
 ## ✍️ Author
 
