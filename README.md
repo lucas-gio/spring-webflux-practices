@@ -1,4 +1,5 @@
 [![Java CI with Maven](https://github.com/lucas-gio/webflux-practicas-introduccion/actions/workflows/maven.yml/badge.svg)](https://github.com/lucas-gio/webflux-practicas-introduccion/actions/workflows/maven.yml)
+[![SonarCloud analysis](https://github.com/lucas-gio/webflux-practicas-introduccion/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/lucas-gio/webflux-practicas-introduccion/actions/workflows/sonarcloud.yml)
 
 ![](cover.jpeg)
 
