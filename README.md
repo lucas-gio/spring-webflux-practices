@@ -1,5 +1,5 @@
-[![Java CI with Maven](https://github.com/lucas-gio/webflux-practicas-introduccion/actions/workflows/maven.yml/badge.svg)](https://github.com/lucas-gio/webflux-practicas-introduccion/actions/workflows/maven.yml)
-[![SonarCloud analysis](https://github.com/lucas-gio/webflux-practicas-introduccion/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/lucas-gio/webflux-practicas-introduccion/actions/workflows/sonarcloud.yml)
+[![Build](https://github.com/lucas-gio/spring-webflux-practices/actions/workflows/build.yml/badge.svg)](https://github.com/lucas-gio/spring-webflux-practices/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lucas-gio_webflux-practicas-introduccion&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lucas-gio_webflux-practicas-introduccion)
 
 ![](cover.jpeg)
 
