@@ -34,7 +34,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.G_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=lucas-gio_webflux-practicas-introduccion
-      - name: Codecov
-        uses: codecov/codecov-action@v2
-        with:
-          fail_ci_if_error: true
