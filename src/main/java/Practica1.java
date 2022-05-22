@@ -59,9 +59,7 @@ public class Practica1 {
                         sink.next(value);
                     }
                 })
-                .filter((Integer value)->{
-                    return value % 2 == 0;
-                })
+                .filter((Integer value)-> value % 2 == 0)
                 .map(Practica1::multiplyByTwo);
     }
 }
