@@ -9,12 +9,24 @@
 
 - Java 8 or above
 
-## ⌨️ Usage
+## ⌨️ Usage & Descriptions
 
-1. Step 1
-1. Step 2
-1. Step 3
+mvn test command in root folder for execute with maven tool.
 
+test withoutZeroFlux__WithEmptyFlux: 
+test withoutZeroFlux__WithFullFlux: 
+test withoutZeroFlux__WithErrorFullFlux: 
+test inRangeFlux__withEmptyFlux: 
+test inRangeFlux__withFullFlux: 
+test multipliedValue__withEmptyFlux: 
+test multipliedValue__withFullFlux: 
+test first__withEmptyFlux: 
+test first__withFullFlux: 
+test lastest__withEmptyFlux: 
+test lastest__withFullFlux: 
+test dobleDePares__withEmptyFlux: 
+test dobleDePares__withFullFluxOK: 
+test dobleDePares__withFullFluxWithErrors: 
 
 ## 🏗 Project Status
 
