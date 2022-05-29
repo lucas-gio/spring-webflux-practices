@@ -33,7 +33,7 @@ test dobleDePares__withFullFluxWithErrors:
 
 |![](https://i.giphy.com/media/7Sk1DclBgQoVyGCSPx/giphy.gif) |
 |:--:|
-#### Finalized
+| Finalized |
 
 ## ✍️ Author
 
