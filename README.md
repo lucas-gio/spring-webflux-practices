@@ -1,5 +1,6 @@
 [![Build](https://github.com/lucas-gio/spring-webflux-practices/actions/workflows/build.yml/badge.svg)](https://github.com/lucas-gio/spring-webflux-practices/actions/workflows/build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lucas-gio_webflux-practicas-introduccion&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lucas-gio_webflux-practicas-introduccion)
+[![Discussion](https://img.shields.io/badge/chat-Discussion-blueviolet)](https://github.com/lucas-gio/spring-webflux-practices/discussions)
 
 ![](cover.jpeg)
 
@@ -46,6 +47,9 @@ Feel free to ping me 😉
 
 Give a ⭐️ if this project helped you!
 
+<a href="https://www.buymeacoffee.com/lucasgioia" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
+</a>
 
 ## 📝 License
 
