@@ -1,5 +1,6 @@
 [![Build](https://github.com/lucas-gio/spring-webflux-practices/actions/workflows/build.yml/badge.svg)](https://github.com/lucas-gio/spring-webflux-practices/actions/workflows/build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lucas-gio_webflux-practicas-introduccion&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lucas-gio_webflux-practicas-introduccion)
+[![CodeFactor](https://www.codefactor.io/repository/github/lucas-gio/spring-webflux-practices/badge)](https://www.codefactor.io/repository/github/lucas-gio/spring-webflux-practices)
 [![Discussion](https://img.shields.io/badge/chat-Discussion-blueviolet)](https://github.com/lucas-gio/spring-webflux-practices/discussions)
 
 # Tests to practice spring webflux
